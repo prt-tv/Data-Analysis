@@ -45,7 +45,7 @@ The project uses two tables:
 ##  SQL Queries
 
 All queries are available in:
-📄 `queries.sql`
+📄 `quesql.queries.sqlries.sql`
 
 ---
 
@@ -66,10 +66,6 @@ Country A → 4500 streams
 3. Artist B → 3000
 
 ---
-
-## 📸 Screenshots
-
-(Add your screenshots here)
 
 Example:
 
