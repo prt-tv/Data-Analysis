@@ -45,7 +45,7 @@ The project uses two tables:
 ##  SQL Queries
 
 All queries are available in:
-📄 `https://github.com/prt-tv/Data-Analysis/blob/main/sql.queries.sql`
+📄 `(sql.queries.sql) (https://github.com/prt-tv/Data-Analysis/blob/main/sql.queries.sql)`
 
 ---
 
