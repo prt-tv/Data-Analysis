@@ -45,7 +45,10 @@ The project uses two tables:
 ##  SQL Queries
 
 All queries are available in:
-📄 `[queries.sql](queries.sql)`
+📄 `## 💻 Project Files
+
+📄 **SQL Queries:** [](./queries.sql)  
+📘 **Documentation:** [Read README](./README.md)`
 
 ---
 
